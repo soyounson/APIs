@@ -1,0 +1,9 @@
+GET https://www.googleapis.com/books/v1/volumes?q=La Reine Margot
+
+###
+GET https://www.googleapis.com/books/v1/volumes?q=L'etranger+inauthor:Albert Camus&download=epub
+
+###
+
+GET https://www.googleapis.com/books/v1/volumes?q=Alexandre Dumas&filter=free-ebooks
+
